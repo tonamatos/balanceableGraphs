@@ -14,4 +14,4 @@ Based on the research of [1], below.
 
 ## References
 
-[1] <a href="[http://arxiv.org/abs/2311.17182](https://www.sciencedirect.com/science/article/pii/S1877050923010177)">Caro, Y., González, I., Hansberg, A., Jácome, M., _, A. Montejano, *Graphs with constant balancing number*, Procedia Computer Science, 2023.</a><br/>
+[1] <a href="https://www.sciencedirect.com/science/article/pii/S1877050923010177">Caro, Y., González, I., Hansberg, A., Jácome, M., _, A. Montejano, *Graphs with constant balancing number*, Procedia Computer Science, 2023.</a><br/>
