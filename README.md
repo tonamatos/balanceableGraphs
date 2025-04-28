@@ -6,7 +6,7 @@ Formulas for recursively computing the balancing number of all graphs of constan
 
 ### This program was developed by
 
-- Tonatiuh Matos Wiederhold<br/>
+- Tonatiuh Matos-[Wiederhold.dev](https://wiederhold.dev)<br/>
   Dept. of Mathematics, University of Toronto, Canada.<br/>
   tonamatos@gmail.com
 
@@ -14,4 +14,4 @@ Based on the research of [1], below.
 
 ## References
 
-[1] <a href="https://www.sciencedirect.com/science/article/pii/S1877050923010177">Caro, Y., González, I., Hansberg, A., Jácome, M., _, A. Montejano, *Graphs with constant balancing number*, Procedia Computer Science, 2023.</a><br/>
+[1] Caro, Y., González, I., Hansberg, A., Jácome, M., _, A. Montejano, *Graphs with constant balancing number*, **Procedia Computer Science**, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S1877050923010177)
